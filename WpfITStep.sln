@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.30717.126
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfITStep", "WpfITStep\WpfITStep.csproj", "{99BED87A-6340-438A-A57D-D9B7BFA380E0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Howework02Task1", "Howework02Task1\Howework02Task1.csproj", "{0C2A5817-8A82-45BE-9BF6-F83775EFDB6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework02Task02", "Homework02Task02\Homework02Task02.csproj", "{6FFDD205-1941-4464-8C4C-8A8AD5010119}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{99BED87A-6340-438A-A57D-D9B7BFA380E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{99BED87A-6340-438A-A57D-D9B7BFA380E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{99BED87A-6340-438A-A57D-D9B7BFA380E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C2A5817-8A82-45BE-9BF6-F83775EFDB6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C2A5817-8A82-45BE-9BF6-F83775EFDB6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C2A5817-8A82-45BE-9BF6-F83775EFDB6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C2A5817-8A82-45BE-9BF6-F83775EFDB6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FFDD205-1941-4464-8C4C-8A8AD5010119}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FFDD205-1941-4464-8C4C-8A8AD5010119}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FFDD205-1941-4464-8C4C-8A8AD5010119}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FFDD205-1941-4464-8C4C-8A8AD5010119}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
